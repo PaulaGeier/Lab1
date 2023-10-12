@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class TrabajoPractico4 {
+public class TrabajoPractico6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
