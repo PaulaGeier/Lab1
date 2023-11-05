@@ -1,3 +1,4 @@
+package TRABAJOSPRACTICOS;
 import java.util.Scanner;
 public class TrabajoPractico5 {
     public static void main(String[] args) {
