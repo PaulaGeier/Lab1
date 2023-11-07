@@ -7,7 +7,7 @@ public class TrabajoPractico6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Ejercicio 1: Calcular la media de una serie de números que se leen por teclado. (RUTH)
+        // Ejercicio 1: Calcular la media de una serie de números que se leen por teclado.
         int sum = 0;
         int count = 0;
 
@@ -28,7 +28,7 @@ public class TrabajoPractico6 {
         }
 
         // Ejercicio 2: Programa que lea por teclado 10 números enteros y los guarde en un array.
-        // A continuación calcula y muestra la media de los números que estén en las posiciones pares del array. (RODRI)
+        // A continuación calcula y muestra la media de los números que estén en las posiciones pares del array.
         int[] array = new int[10];
         int suma = 0;
         int contador = 0;
