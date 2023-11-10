@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
         while (true) {
-
             ArrayList<ArrayList<Character>> matrixDNA = new ArrayList<>();
 
             // Llenar matriz con secuencia de ADN

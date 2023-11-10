@@ -73,7 +73,6 @@ public class Funciones {
             return true;
         }
 
-
         //DIAGONAL DE LA POSICION 2,0
         dnaChain.clear();
         for (int i = 0; i < dna.size(); i++) {
